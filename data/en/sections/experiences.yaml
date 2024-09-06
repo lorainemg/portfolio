@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Jack's Flight Club
     url: "https://jacksflightclub.com"
-    location: Camden, US
+    location: Remote
     # company overview
     overview: Jack's Flight Club is the United Kingdom's premium cheap flight alerts service with 1,500,000+ members and subscribers. Jack's Flight Club's team is responsible for scouring the web in search for mistake fare and cheap flights departing from the UK, mainland Europe, & USA to destinations all over the globe. Once an incredible deal comes up, our subscribers are notified at once to give them the best chance to score a deal before it's gone.
   positions:
@@ -32,7 +32,7 @@ experiences:
 - company:
     name: Arealec.
     url: "http://www.araelec.com"
-    location: Zaragoza, Spain
+    location: Zaragoza, Spain (Part-Time, Remote)
     overview: Specialists in automation, electronics, IT, lighting and renewables, where we offer services and solutions for industrial users, R&D&I solutions and IT solutions for companies.
   positions:
   - designation: Full Stack Developer
@@ -73,7 +73,7 @@ experiences:
 - company:
     name: Deepdatatech.
     url: "http://www.deepdatatech.com"
-    location: Havana, Cuba
+    location: Havana, Cuba (Part-Time, Remote)
     overview: Awareness of the unconscious boosts performance.
   positions:
   - designation: Full Stack Developer

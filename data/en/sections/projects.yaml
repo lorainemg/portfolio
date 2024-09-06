@@ -21,44 +21,85 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Schizophrenic Classification
+  logo: /images/sections/projects/project1.png
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  timeline: "May 2018 - Jun 2018"
+  repo: https://github.com/lorainemg/schizophrenic-classification # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Classification of schizophrenic patients by applying the wavelet transform to evoked potentials and machine learning..
+  tags: ["machine-learning", "data-manipulation", "academic"]
 
-- name: A sample academic paper
+- name: Analysis of Household Dataset
+  logo: /images/sections/projects/project2.png
+  role: Developer
+  timeline: "Sep 2019 - October 2019"
+  repo: https://github.com/lorainemg/Household-Analysis
+  #url: ""
+  summary: Statistical analysis on the `Household` Dataset. The project was carried out in R, where Regression Analysis, Hypothesis Testing, Anova Test, and PCA Analysis were performed..
+  tags: ["academic", data-analysis", "statistcs", "hypothesis-testing"]
+
+- name: Information Retrieval System
+  logo: /images/sections/projects/project3.png
   role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+  timeline: "May 2018 - Jul 2018"
+  repo: "https://github.com/lorainemg/information-retrieval-system"
+  summary: Implementation of an Information Retrieval System based on the Vector Information Retrieval Model.
+  tags: ["academic", "nlp", "data-manipulation", "machine-learning"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: Cryptocurrency Forecasting
+  logo: /images/sections/projects/project4.png
+  role: Developer
+  timeline: "Jul 2022 - Nov 2022"
+  repo: https://github.com/lorainemg/crypto-forecasting
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: Forecasting Cryptocurrencies Prices with Machine Learning.
+  tags: ["hobby", "data-analysis", "data-visualization", "machine-learning", "nlp"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: Detection of Negation
+  logo: /images/sections/projects/project5.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "Jan 2018 - Apr 2018"
+  repo: https://github.com/lorainemg/negation-detection
+  summary: Automatic Detection of Negation and the Words they Affect in Spanish texts.
+  tags: ["academic", "data-manipulation","machine-learning","nlp"]
+
+- name: Sensortower Scraper
+  logo: /images/sections/projects/project6.png
+  role: Developer
+  timeline: "May 2020 - Jul 2020"
+  repo: https://github.com/lorainemg/sensortower-scraper
+  summary: Scraper to collect app download statistics for both Android and iOS.
+  tags: ["academic", "data-manipulation","data-visualization"]
+
+- name: eHealth-KD Challenge 2021
+  logo: /images/sections/projects/project7.png
+  role: Contributor
+  timeline: "Apr 2021 - Jul 2021"
+  repo: https://github.com/lorainemg/eHealthKD-competition
+  summary: UH-MMM submission for the eHealth-KD Challenge, hosted at the 3rd Iberian Languages Evaluation Forum.
+  tags: ["academic", "nlp","machine-learning", "deep-learning", "data-manipulation"]
+
+- name: DataCamp Projects
+  logo: /images/sections/projects/project8.png
+  role: Owner
+  timeline: "Jun 2022 - Aug 2022"
+  repo: https://github.com/lorainemg/datacamp-projects
+  summary: My Collection of Projects at DataCamp.
+  tags: ["hobby", "data-manipulation","data-visualization", "machine-learning"]
+  
+- name: Machine Learning Projects
+  logo: /images/sections/projects/project9.png
+  role: Contributor
+  timeline: "Jan 2022 - Jul 2022"
+  repo: https://github.com/lorainemg/cp-ml
+  summary: My Collection of Projects of Machine Learning Classes.
+  tags: ["professional", "data-manipulation","data-visualization", "machine-learning"]
+  
+- name: A Meta-Learning Strategy for Generic AutoML Pipelines.
+  logo: /images/sections/projects/project10 - performance.jpg
+  role: Owner
+  timeline: "Jan 2021 - Nov 2021"
+  repo: https://github.com/lorainemg/autogoal
+  summary: A Meta-Learning proposal to improve the performance of AutoML systems,, recommending initial ML algorithms to start the search.
+  tags: ["professional", "data-manipulation", "machine-learning", "automl"]
