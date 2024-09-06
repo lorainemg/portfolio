@@ -11,54 +11,78 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Jack's Flight Club
+    url: "https://jacksflightclub.com"
+    location: Camden, US
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Jack's Flight Club is the United Kingdom's premium cheap flight alerts service with 1,500,000+ members and subscribers. Jack's Flight Club's team is responsible for scouring the web in search for mistake fare and cheap flights departing from the UK, mainland Europe, & USA to destinations all over the globe. Once an incredible deal comes up, our subscribers are notified at once to give them the best chance to score a deal before it's gone.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Software Developer
+    start: Dic 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Enhanced internal software to track flights, boosting productivity and efficiency.
+    - Utilized Slack and created a dashboard in Svelte for real-time flight tracking and data extraction.
+    - Developed an ML algorithm to classify valuable flights, improving operational efficiency.
+    - Streamlined processes, leading to measurable improvements in workflow.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Arealec.
+    url: "http://www.araelec.com"
+    location: Zaragoza, Spain
+    overview: Specialists in automation, electronics, IT, lighting and renewables, where we offer services and solutions for industrial users, R&D&I solutions and IT solutions for companies.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Full Stack Developer
+    start: Feb 2022
+    end: Aug 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    - Developed IoT web application for lighting control using LoRaWAN and Chirpstack server, enhancing automation.
+    - Implemented Python backend with FastAPI, SQLAlchemy, and MySQL, improving data management efficiency.
+    - Created Vue3 frontend with JavaScript and Vite, delivering a responsive user interface.
+    - Facilitated seamless integration between backend and frontend, ensuring smooth system operations.
+    - 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: University of Havana.
+    url: "http://www.uh.cu"
+    location: Havana, Cuba
+    overview: The University of Havana is one of the biggest and the oldest university in Cuba.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Assistant Professor and Researcher
+    start: Jan 2022
+    end: Aug 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Taught Logic, Machine Learning, and Programming; enhanced student comprehension and engagement.
+    - Collaborated on AutoML system AutoGOAL, creating meta-learning component for improved effectiveness.
+  - designation: Undergraduate Teaching Assistant
+    start: Sep 2018
+    end: Dec 2021
+    responsibilities:
+    - Assisted in teaching Logic classes, enhancing student understanding and engagement.
+    - Prepared and graded exams, ensuring fair assessment and timely feedback.
+  - designation: Undergraduate Student Researcher
+    start: Sep 2017
+    end: Dec 2021
+    responsibilities:
+     - Conducted research in NLP, contributing to the creation of corpus for IberLEF eHealth Challenges.
+      - Achieved notable results in IberLEF eHealth Knowledge Discovery Challenge 2021.
+      - Won awards at school and national levels in various Student Congresses.
+      - Presented findings at the XVI COMPUMAT 2019 International Congress.
+- company:
+    name: Deepdatatech.
+    url: "http://www.deepdatatech.com"
+    location: Havana, Cuba
+    overview: Awareness of the unconscious boosts performance.
+  positions:
+  - designation: Full Stack Developer
+    start: Feb 2022
+    end: Aug 2024
+    responsibilities:
+    - Designed and developed a web application for psychological tests, enhancing talent selection efficiency.
+    - Implemented Carl Jung's personality theory, improving candidate assessment accuracy.
+    - Collaborated with psychologists to ensure test validity, resulting in more reliable talent identification.
+    - Designed and developed a web application for psychological tests, enhancing talent selection efficiency.
+    - Implemented Carl Jung's personality theory, improving candidate assessment accuracy.
+    - Collaborated with psychologists to ensure test validity, resulting in more reliable talent identification.
