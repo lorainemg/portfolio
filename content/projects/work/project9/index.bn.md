@@ -7,6 +7,7 @@ menu:
     name: Machine Learning Projects
     identifier: project-9
     weight: 10
+    parent: work
 tags: ["Data Manipulation", "Data Visualization", "Importing & Cleaning Data", "Programming", "Probability & Statistics", "Machine Learning"]
 categories: ["Basic"]
 ---

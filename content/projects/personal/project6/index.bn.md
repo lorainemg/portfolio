@@ -7,6 +7,7 @@ menu:
     name: Sensortower Scraper
     identifier: project-6
     weight: 10
+    parent: personal
 tags: ["Data Manipulation", "Importing & Cleaning Data", "Programming", "API"]
 categories: ["Basic"]
 ---

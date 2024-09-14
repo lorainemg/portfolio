@@ -7,6 +7,7 @@ menu:
     name: Analysis of Household Dataset
     identifier: project-2
     weight: 10
+    parent: school
 tags: ["Data Analysis", "Data Visualization", "Data Manipulation", "Probability & Statistics", "Hypothesis Testing"]
 categories: ["Basic"]
 ---

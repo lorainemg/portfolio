@@ -7,6 +7,7 @@ menu:
     name: Detection of Negation
     identifier: project-5
     weight: 10
+    parent: school
 tags: ["Data Manipulation", "Machine Learning", "Natural Language Processing", "Sentiment Analysis", "Programming", "Probability & Statistics"]
 categories: ["Basic"]
 ---
@@ -24,8 +25,9 @@ The automatic detection of negation and the words they affect is an important ta
 * A Streamlit application is developed to test the results of the machine learning algorithm.
 * The application is containerized using Docker.
 
+<img src="project5.jpg" alt="drawing" style="width:100%;" title="Example of a dependency graph representing the path between 'fotos' and 'no'"/>
 
-{{< figure src="project5.jpg" title="Example of a dependency graph representing the path between 'fotos' and 'no'" >}}
+
 
 ### **Skills**
 

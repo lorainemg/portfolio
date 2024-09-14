@@ -7,6 +7,7 @@ menu:
     name: Meta-Learning for AutoML
     identifier: project-10
     weight: 10
+    parent: school
 tags: ["Data Manipulation", "Machine Learning", "Recommender Systems", "AutoML", "Programming", "Probability & Statistics", "Data Visualization", "Hypothesis Testing"]
 categories: ["Basic"]
 ---

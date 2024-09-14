@@ -7,9 +7,9 @@ menu:
     name: Cryptocurrency Forecasting
     identifier: project-4
     weight: 10
+    parent: personal
 tags: ["Data Analysis", "Data Visualization", "Time-Series Analysis", "Machine Learning", "NLP", "API"]
 categories: ["Basic"]
-hero: project4.png
 ---
 ### Summary
 

@@ -7,9 +7,10 @@ menu:
     name: Schizophrenic Classification
     identifier: project-1
     weight: 10
+    parent: school
 tags: ["Data Modeling", "Machine Learning", "Data Manipulation", "Importing & Cleaning Data"]
 categories: ["Basic"]
-hero: project1.png
+hero: hero.png
 ---
 ### Summary
 
@@ -20,7 +21,7 @@ Schizophrenia is a psychiatric disorder that affects a large part of the worldâ€
 * The discrete wavelet transform was applied with the Daubechies mother wavelet of order 4 and level 5.
 * 180 characteristics were extracted per subject and SVM was applied as a learning algorithm using cross-validation to obtain a 62.93 % accuracy.
 
-{{< figure src="project1.png" title="Calculation of the Fast Fourier Transform of the reconstructed signal from the A5 coefficients that represents the Delta band [0.5-4Hz]" >}}
+<img src="project1.png" alt="Fourier Transform" style="width:100%;" title="Calculation of the Fast Fourier Transform of the reconstructed signal from the A5 coefficients that represents the Delta band [0.5-4Hz]"/>
 
 ### **Skills**
 

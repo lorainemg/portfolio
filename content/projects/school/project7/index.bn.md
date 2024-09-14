@@ -7,6 +7,7 @@ menu:
     name: eHealth-KD Challenge 2021
     identifier: project-7
     weight: 10
+    parent: school
 tags: ["Natural Language Processing", "Machine Learning", "Deep Learning", "Importing & Cleaning Data", "Programming"]
 categories: ["Basic"]
 ---

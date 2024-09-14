@@ -7,6 +7,7 @@ menu:
     name: Information Retrieval System
     identifier: project-3
     weight: 10
+    parent: school
 tags: ["Information Retrieval", "Recommender Systems", "NLP", "Data Manipulation", "Importing & Cleaning Data", "Machine Learning"]
 categories: ["Basic"]
 ---
