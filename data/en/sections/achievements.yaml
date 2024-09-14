@@ -10,15 +10,24 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
+- title: Gold Diploma
+  image: /images/sections/achievements/gold-diploma.png
+  summary: Graduated with top academic scores.
+- title: Scientific Merit Award
+  image: /images/sections/achievements/scientific.png
+  summary: The scientific Merit Award goes to the students who have achieved excellent academic and research results after finishing their undergraduate education.
+- title: 5th Place in IberLEF eHealth Knowledge Discovery Challenge 2021
   image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+  summary: https://ehealthkd.github.io/2021
+- title: Silver Award at the National Computer Conference
+  image: /images/sections/achievements/sport.jpg
+  summary: "Achieved Silver Award at the National Computer Conference for the publication of: 'Un Modelo de Anotación de Propósito General para el Descubrimiento de Conocimiento Aplicado a Tecnologías de la Salud'"
+- title: XVI COMPUMAT 2019 International Congress Participation
+  image: /images/sections/achievements/presenter.jpg
+  summary: Participated in XVI COMPUMAT 2019 International Congress with the publication of the work "Detección de la negación y su ámbito en textos escritos en español"
+- title: Silver Diploma at the 2019 Student Scientific Conference
+  image: /images/sections/achievements/presenter.jpg
+  summary: Developed a general-purpose annotation model for knowledge discovery applied to health technologies.
+- title: Gold Diploma at the 2018 Student Scientific Conference
+  image: /images/sections/achievements/presenter.jpg
+  summary: Applied machine learning to solve the problem of the detection of negation in Spanish sentences, and its scope.
