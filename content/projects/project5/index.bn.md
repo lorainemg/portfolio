@@ -7,7 +7,7 @@ menu:
     name: Detection of Negation
     identifier: project-5
     weight: 10
-tags: ["Data Manipulation", "Machine Learning", "Natural Language Processing", "Sentiment Analysis", "Programming", "Probability & Statistics", "Cases Studies"]
+tags: ["Data Manipulation", "Machine Learning", "Natural Language Processing", "Sentiment Analysis", "Programming", "Probability & Statistics"]
 categories: ["Basic"]
 ---
 

@@ -7,7 +7,7 @@ menu:
     name: DataCamp Projects
     identifier: project-8
     weight: 10
-tags: ["Data Manipulation", "Data Visualization", "Importing & Cleaning Data", "Case Studies", "Programming", "Probability & Statistics", "Machine Learning"]
+tags: ["Data Manipulation", "Data Visualization", "Importing & Cleaning Data", "Programming", "Probability & Statistics", "Machine Learning"]
 categories: ["Basic"]
 ---
 
