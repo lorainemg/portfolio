@@ -2,6 +2,7 @@
 title: "Analysis of Household Dataset"
 date: 2019-09-25T11:15:58-04:00
 description: "Statistical analysis on the `Household` Dataset. The project was carried out in R, where Regression Analysis, Hypothesis Testing, Anova Rest, and PCA Analysis were performed."
+summary: This project uses the data from the UCI Machine Learning Repository, in particular the dataset "Individual Household Electric Power Consumption". A real example related to the electricity consumption of a house for 4 years is analyzed.
 menu:
   sidebar:
     name: Analysis of Household Dataset

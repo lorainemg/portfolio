@@ -2,6 +2,7 @@
 title: "Detection of Negation"
 date: 2018-04-10T11:25:05-04:00
 description: "Automatic Detection of Negation and the Words they Affect in Spanish texts"
+summary: The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases in the first one the signals are identified and in the second the whole scope of these cues is determined.
 menu:
   sidebar:
     name: Detection of Negation
@@ -11,7 +12,6 @@ menu:
 tags: ["Data Manipulation", "Machine Learning", "Natural Language Processing", "Sentiment Analysis", "Programming", "Probability & Statistics"]
 categories: ["Basic"]
 ---
-
 
 
 The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.

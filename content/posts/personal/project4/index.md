@@ -2,6 +2,7 @@
 title: "Cryptocurrency Forecasting"
 date: 2022-08-24T11:25:05-04:00
 description: "Forecasting Cryptocurrencies Prices with Machine Learning."
+summary: Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.
 menu:
   sidebar:
     name: Cryptocurrency Forecasting

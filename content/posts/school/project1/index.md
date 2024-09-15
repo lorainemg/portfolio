@@ -2,6 +2,7 @@
 title: "Schizophrenic Classification"
 date: 2018-05-09T10:58:08-04:00
 description: "Classification of schizophrenic patients by applying the wavelet transform to evoked potentials and machine learning."
+summary: The objective of this work is to generate a model that allows distinguishing schizophrenic patients from healthy patients using the visual paradigm of the P300 and applying the discrete transform of wavelets as a method of extracting characteristics.
 menu:
   sidebar:
     name: Schizophrenic Classification

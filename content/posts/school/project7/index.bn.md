@@ -2,6 +2,7 @@
 title: "eHealth-KD Challenge 2021"
 date: 2021-07-20T11:25:05-04:00
 description: "UH-MMM submission for the eHealth-KD Challenge, hosted at the 3rd Iberian Languages Evaluation Forum."
+summary: This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021 at the 3rd Iberian Languages Evaluation Forum.
 menu:
   sidebar:
     name: eHealth-KD Challenge 2021

@@ -2,6 +2,7 @@
 title: "Sensortower Scraper"
 date: 2020-07-01T11:25:05-04:00
 description: "Scraper to collect app download statistics for both Android and iOS."
+summary: Scraper of [Sensortower](https://app.sensortower.com/) to collect app download statistics for Android and iOS.
 menu:
   sidebar:
     name: Sensortower Scraper

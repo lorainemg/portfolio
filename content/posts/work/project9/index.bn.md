@@ -2,6 +2,7 @@
 title: "Machine Learning Projects"
 date: 2022-07-22T11:25:05-04:00
 description: "My Collection of Projects of Machine Learning Classes"
+summary: My Collection of Projects teaching Machine Learning subject. In this article every project is described.
 menu:
   sidebar:
     name: Machine Learning Projects

@@ -2,6 +2,7 @@
 title: "Information Retrieval System"
 date: 2020-06-18T11:25:05-04:00
 description: "Implementation of an Information Retrieval System based on the Vector Information Retrieval Model"
+summary: In this project, an Information Retrieval System based on the Vector Information Retrieval Model is implemented. The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.
 menu:
   sidebar:
     name: Information Retrieval System
