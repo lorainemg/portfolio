@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/categories/basic/</link><description>Recent content in Basic on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/categories/basic/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>&lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
-&lt;h4 id="summary">Summary&lt;/h4>
-&lt;ul>
-&lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
-&lt;li>Different data of interest were plotted, which are essential for the prediction of future cryptocurrency prices.&lt;/li>
-&lt;li>Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.&lt;/li>
-&lt;li>Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.&lt;/li>
-&lt;/ul>
-&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
-&lt;ul>
-&lt;li>Machine Learning&lt;/li>
-&lt;li>Time-Series Forecasting&lt;/li>
-&lt;li>Twitter API&lt;/li>
-&lt;li>Plotly-Dash&lt;/li>
-&lt;li>Streamlit&lt;/li>
-&lt;li>Natural Language Processing&lt;/li>
-&lt;/ul>
-&lt;h4 id="resources">Resources&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/projects/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project4/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basic on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/categories/basic/</link><description>Recent content in Basic on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/categories/basic/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.</description></item><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/projects/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project4/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
 &lt;ul>
 &lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
@@ -38,7 +18,7 @@
 &lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project8/</guid><description>This is the datacamp project summary</description></item><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project8/</guid><description>&lt;p>My Collection of Projects at DataCamp. This exercises are taken from the course &lt;a href="https://www.datacamp.com/tracks/associate-data-scientist-in-python" target="_blank" rel="noopener">Associate Data Scientist in Python&lt;/a> from &lt;a href="https://www.datacamp.com/" target="_blank" rel="noopener">DataCamp&lt;/a>. Here&amp;rsquo;s a brief description of each project.&lt;/p>
+&lt;/ul></description></item><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project8/</guid><description>My Collection of Projects at DataCamp. This exercises are taken from the course &lt;a href="https://www.datacamp.com/tracks/associate-data-scientist-in-python" target="_blank" rel="noopener">Associate Data Scientist in Python&lt;/a> from &lt;a href="https://www.datacamp.com/" target="_blank" rel="noopener">DataCamp&lt;/a>. Here&amp;rsquo;s a brief description of each project.</description></item><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project8/</guid><description>&lt;p>My Collection of Projects at DataCamp. This exercises are taken from the course &lt;a href="https://www.datacamp.com/tracks/associate-data-scientist-in-python" target="_blank" rel="noopener">Associate Data Scientist in Python&lt;/a> from &lt;a href="https://www.datacamp.com/" target="_blank" rel="noopener">DataCamp&lt;/a>. Here&amp;rsquo;s a brief description of each project.&lt;/p>
 &lt;h4 id="introduction-to-datacamp-projects">Introduction to DataCamp Projects&lt;/h4>
 &lt;p>This notebook serves as an Introduction to DataCamp Projects.&lt;/p>
 &lt;ul>
@@ -56,25 +36,7 @@
 &lt;li>&lt;a href="https://github.com/lorainemg/datacamp-projects/tree/main/Introduction%20to%20DataCamp%20Projects" target="_blank" rel="noopener">GitHub Repository&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="investigating-netflix-movies-and-guest-stars-in-the-office">Investigating Netflix Movies and Guest Stars in The Office&lt;/h4>
-&lt;p>In this project I apply the foundational Python skills by manipulating and visualizing movie and TV data.&lt;/p></description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject. Here&amp;rsquo;s a brief description of every project:&lt;/p>
-&lt;h4 id="supervised-classification-and-introduction-to-the-sklearn-tool">Supervised Classification and Introduction to the Sklearn Tool&lt;/h4>
-&lt;p>The objective of this project is to solve a problem using the algorithms given in the lecture.&lt;/p>
-&lt;ul>
-&lt;li>There are positive and negative movie reviews. 1000 of each.&lt;/li>
-&lt;li>The goal is, given the text of the review, to determine whether the review is positive or negative.&lt;/li>
-&lt;li>For this, KNN and Naive Bayes will be used and compared.&lt;/li>
-&lt;/ul>
-&lt;h5 id="habilities">Habilities:&lt;/h5>
-&lt;ul>
-&lt;li>Data Preprocessing&lt;/li>
-&lt;li>KNN&lt;/li>
-&lt;li>Naive Bayes&lt;/li>
-&lt;li>Feature Extraction&lt;/li>
-&lt;li>Model Training&lt;/li>
-&lt;li>Sentiment Analysis&lt;/li>
-&lt;/ul>
-&lt;h4 id="decision-trees-and-random-forest">Decision Trees and Random Forest&lt;/h4>
-&lt;p>To demonstrate the use of Decision Trees and Random Forests, we use the Iris dataset.&lt;/p></description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject.&lt;/p>
+&lt;p>In this project I apply the foundational Python skills by manipulating and visualizing movie and TV data.&lt;/p></description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project9/</guid><description>My Collection of Projects teaching Machine Learning subject. In this article every project is described.</description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject.&lt;/p>
 &lt;p>Here&amp;rsquo;s a brief description of every project:&lt;/p>
 &lt;h4 id="supervised-classification-and-introduction-to-the-sklearn-tool">Supervised Classification and Introduction to the Sklearn Tool&lt;/h4>
 &lt;p>The objective of this project is to solve a problem using the algorithms given in the lecture.&lt;/p>
@@ -94,36 +56,7 @@
 &lt;/ul>
 &lt;h4 id="decision-trees-and-random-forest">Decision Trees and Random Forest&lt;/h4>
 &lt;p>To demonstrate the use of Decision Trees and Random Forests, we use the Iris dataset.&lt;/p></description></item><item><title>A Meta-Learning Strategy for Generic AutoML Pipelines.</title><link>https://lorainemg.github.io/portfolio/posts/school/project10/</link><pubDate>Wed, 17 Nov 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project10/</guid><description>&lt;p>The field of &lt;strong>Automated Machine Learning (AutoML)&lt;/strong> has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Despite the recent success of AutoML, many challenges remain. Learning AutoML is a time-consuming process and can be computationally inefficient. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks. One of the advantages of meta-learning techniques is that they can serve as efficient support for the AutoML process, learning from previous tasks the best algorithms to solve a certain type of problem. In this way, it is possible to speed up the AutoML process, obtaining better results in the same period of time. The objective of this thesis project is to design a meta-learning strategy for generic domains in machine learning.&lt;/p></description></item><item><title>A Meta-Learning Strategy for Generic AutoML Pipelines.</title><link>https://lorainemg.github.io/portfolio/projects/school/project10/</link><pubDate>Wed, 17 Nov 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project10/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
-&lt;p>The field of &lt;strong>Automated Machine Learning (AutoML)&lt;/strong> has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Despite the recent success of AutoML, many challenges remain. Learning AutoML is a time-consuming process and can be computationally inefficient. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks. One of the advantages of meta-learning techniques is that they can serve as efficient support for the AutoML process, learning from previous tasks the best algorithms to solve a certain type of problem. In this way, it is possible to speed up the AutoML process, obtaining better results in the same period of time. The objective of this thesis project is to design a meta-learning strategy for generic domains in machine learning.&lt;/p></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/posts/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project7/</guid><description>&lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
-&lt;h4 id="summary">Summary&lt;/h4>
-&lt;ul>
-&lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
-&lt;li>The evaluation of the task is divided into three scenarios: one corresponding to the detection of entities, one corresponding to the detection of relations between such pair of entities, and the third one corresponding to the extraction of both entities and relationships.&lt;/li>
-&lt;li>For both subtasks, our proposal makes use of BiLSTM as contextual encoders and Dense layers as the tag decoder architecture of the model.&lt;/li>
-&lt;li>In the challenge, the system ranked fifth in the main scenario, fourth in the scenario evaluating the first task, and fifth in the last scenario.&lt;/li>
-&lt;li>The score obtained in the relationship extraction task shows that the proposed approach needs to be further explored.&lt;/li>
-&lt;/ul>
-&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/posts/school/project7/project7.jpg">&lt;figcaption>
-&lt;h4>Neural network architecture used in the first subtask&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
-&lt;ul>
-&lt;li>&lt;code>Scikit-learn&lt;/code>&lt;/li>
-&lt;li>Named Entity Recognition&lt;/li>
-&lt;li>Relation Extraction&lt;/li>
-&lt;li>&lt;code>Keras&lt;/code>&lt;/li>
-&lt;li>&lt;code>NLTK&lt;/code>&lt;/li>
-&lt;li>&lt;code>Spacy&lt;/code>&lt;/li>
-&lt;li>Neural Networks&lt;/li>
-&lt;li>LSTM&lt;/li>
-&lt;/ul>
-&lt;h4 id="resouces">Resouces&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf" target="_blank" rel="noopener">Paper&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ehealthkd.github.io/2021" target="_blank" rel="noopener">Challenge Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>The field of &lt;strong>Automated Machine Learning (AutoML)&lt;/strong> has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Despite the recent success of AutoML, many challenges remain. Learning AutoML is a time-consuming process and can be computationally inefficient. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks. One of the advantages of meta-learning techniques is that they can serve as efficient support for the AutoML process, learning from previous tasks the best algorithms to solve a certain type of problem. In this way, it is possible to speed up the AutoML process, obtaining better results in the same period of time. The objective of this thesis project is to design a meta-learning strategy for generic domains in machine learning.&lt;/p></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/posts/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project7/</guid><description>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021 at the 3rd Iberian Languages Evaluation Forum.</description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
 &lt;ul>
 &lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
@@ -152,28 +85,7 @@
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf" target="_blank" rel="noopener">Paper&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ehealthkd.github.io/2021" target="_blank" rel="noopener">Challenge Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/posts/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project6/</guid><description>&lt;p>Scraper of &lt;a href="https://app.sensortower.com/" target="_blank" rel="noopener">Sensortower&lt;/a> to collect app download statistics for Android and iOS.&lt;/p>
-&lt;h4 id="summary">Summary&lt;/h4>
-&lt;ul>
-&lt;li>It collects information from &lt;a href="https://sensortower.com/api/" target="_blank" rel="noopener">Sensortower API&lt;/a>.&lt;/li>
-&lt;li>Saves the necessary information in JSON.&lt;/li>
-&lt;li>It uses the Python &lt;code>requests&lt;/code> package.&lt;/li>
-&lt;/ul>
-&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/posts/personal/project6/project6.jpg">&lt;figcaption>
-&lt;h4>Ejemplo de la información obtenida en Sensortower&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
-&lt;ul>
-&lt;li>Scrapper&lt;/li>
-&lt;li>API&lt;/li>
-&lt;li>JSON&lt;/li>
-&lt;li>&lt;code>requests&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;h4 id="resources">Resources&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/sensortower-scraper" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/projects/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project6/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;/ul></description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/posts/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project6/</guid><description>Scraper of &lt;a href="https://app.sensortower.com/" target="_blank" rel="noopener">Sensortower&lt;/a> to collect app download statistics for Android and iOS.</description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/projects/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project6/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Scraper of &lt;a href="https://app.sensortower.com/" target="_blank" rel="noopener">Sensortower&lt;/a> to collect app download statistics for Android and iOS.&lt;/p>
 &lt;ul>
 &lt;li>It collects information from &lt;a href="https://sensortower.com/api/" target="_blank" rel="noopener">Sensortower API&lt;/a>.&lt;/li>
@@ -194,31 +106,7 @@
 &lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/sensortower-scraper" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Information Retrieval System</title><link>https://lorainemg.github.io/portfolio/posts/school/project3/</link><pubDate>Thu, 18 Jun 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project3/</guid><description>&lt;p>In this project, an Information Retrieval System based on the Vector Information Retrieval Model is implemented. The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.&lt;/p>
-&lt;h4 id="summary">Summary&lt;/h4>
-&lt;ul>
-&lt;li>A visual interface using Streamlit is used.&lt;/li>
-&lt;li>Clustering techniques to group documents and a crawler to gain information are applied.&lt;/li>
-&lt;li>NLP techniques and different metrics in different collections are applied to check the functionality of the system.&lt;/li>
-&lt;/ul>
-&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/posts/school/project3/project3.jpg">&lt;figcaption>
-&lt;h4>Workflow of an Information Retrieval System&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
-&lt;ul>
-&lt;li>Machine Learning&lt;/li>
-&lt;li>Clustering&lt;/li>
-&lt;li>Content Filtering&lt;/li>
-&lt;li>Streamlit&lt;/li>
-&lt;li>NLTK&lt;/li>
-&lt;li>Scikit-Learn&lt;/li>
-&lt;/ul>
-&lt;h4 id="resources">Resources&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system/blob/main/doc/C511%20Loraine%20Monteagudo%2C%20Tony%20Raul%20Blanco.pdf" target="_blank" rel="noopener">Report&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Information Retrieval System</title><link>https://lorainemg.github.io/portfolio/projects/school/project3/</link><pubDate>Thu, 18 Jun 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project3/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;/ul></description></item><item><title>Information Retrieval System</title><link>https://lorainemg.github.io/portfolio/posts/school/project3/</link><pubDate>Thu, 18 Jun 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project3/</guid><description>In this project, an Information Retrieval System based on the Vector Information Retrieval Model is implemented. The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.</description></item><item><title>Information Retrieval System</title><link>https://lorainemg.github.io/portfolio/projects/school/project3/</link><pubDate>Thu, 18 Jun 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project3/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;ul>
 &lt;li>In this repo, an Information Retrieval System based on the Vector Information Retrieval Model is implemented.&lt;/li>
 &lt;li>The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.&lt;/li>
@@ -243,37 +131,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system/blob/main/doc/C511%20Loraine%20Monteagudo%2C%20Tony%20Raul%20Blanco.pdf" target="_blank" rel="noopener">Report&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/posts/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project2/</guid><description>&lt;p>This project uses the data from the UCI Machine Learning Repository, in particular the dataset &amp;ldquo;Individual Household Electric Power Consumption&amp;rdquo;. A real example related to the electricity consumption of a house for 4 years is analyzed.&lt;/p>
-&lt;h4 id="summary">Summary&lt;/h4>
-&lt;ul>
-&lt;li>The project is written in R.&lt;/li>
-&lt;li>A normal population will be generated in which different samples will be extracted and their differences will be studied.&lt;/li>
-&lt;li>Then, we will carry out a hypothesis test of equality of variances between two attributes of the dataset.&lt;/li>
-&lt;li>In addition, a study of these data will be carried out using regression techniques, which will allow us to determine if there are linear relationships between some of the given variables.&lt;/li>
-&lt;li>Then we will reduce the dimension of the data through principal component analysis (PCA), clusters and classification trees, also making an interpretation of them.&lt;/li>
-&lt;li>Finally, we will carry out an analysis of variance or ANOVA to compare the means of a characteristic in several populations.&lt;/li>
-&lt;/ul>
-&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/posts/school/project2/project2.png">&lt;figcaption>
-&lt;h4>Graphic of the correlation matrix between several of the variables analyzed in the data set&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
-&lt;ul>
-&lt;li>R&lt;/li>
-&lt;li>Clustering&lt;/li>
-&lt;li>Statistical Analysis&lt;/li>
-&lt;li>PCA Analysis&lt;/li>
-&lt;li>Hypothesis Testing&lt;/li>
-&lt;li>Regression Analysis&lt;/li>
-&lt;li>Anova Test&lt;/li>
-&lt;/ul>
-&lt;h4 id="resources">Resources&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis" target="_blank" rel="noopener">Github Link&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf" target="_blank" rel="noopener">Report 1&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase2/doc/report.pdf" target="_blank" rel="noopener">Report 2&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://archive.ics.uci.edu/ml/datasets/individual&amp;#43;household&amp;#43;electric&amp;#43;power&amp;#43;consumption" target="_blank" rel="noopener">Dataset&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/projects/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project2/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/posts/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project2/</guid><description>This project uses the data from the UCI Machine Learning Repository, in particular the dataset &amp;ldquo;Individual Household Electric Power Consumption&amp;rdquo;. A real example related to the electricity consumption of a house for 4 years is analyzed.</description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/projects/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project2/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This project uses the data from the UCI Machine Learning Repository, in particular the dataset &amp;ldquo;Individual Household Electric Power Consumption&amp;rdquo;. A real example related to the electricity consumption of a house for 4 years is analyzed.&lt;/p>
 &lt;ul>
 &lt;li>The project is written in R.&lt;/li>
@@ -303,7 +161,7 @@
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf" target="_blank" rel="noopener">Report 1&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase2/doc/report.pdf" target="_blank" rel="noopener">Report 2&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://archive.ics.uci.edu/ml/datasets/individual&amp;#43;household&amp;#43;electric&amp;#43;power&amp;#43;consumption" target="_blank" rel="noopener">Dataset&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Schizophrenic Classification</title><link>https://lorainemg.github.io/portfolio/posts/school/project1/</link><pubDate>Wed, 09 May 2018 10:58:08 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project1/</guid><description>&lt;p>Schizophrenia is a psychiatric disorder that affects a large part of the world’s population. Among its symptoms are the inability to process information, mainly in attention tasks and work memory. That is why the use of evoked potentials related to events is a useful tool to support the subjective decision processes of medical specialists. The objective of this work is to generate a model that allows distinguishing schizophrenic patients from healthy patients using the visual paradigm of the P300 and applying the discrete transform of wavelets as a method of extracting characteristics.&lt;/p></description></item><item><title>Schizophrenic Classification</title><link>https://lorainemg.github.io/portfolio/projects/school/project1/</link><pubDate>Wed, 09 May 2018 10:58:08 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project1/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;/ul></description></item><item><title>Schizophrenic Classification</title><link>https://lorainemg.github.io/portfolio/posts/school/project1/</link><pubDate>Wed, 09 May 2018 10:58:08 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project1/</guid><description>The objective of this work is to generate a model that allows distinguishing schizophrenic patients from healthy patients using the visual paradigm of the P300 and applying the discrete transform of wavelets as a method of extracting characteristics.</description></item><item><title>Schizophrenic Classification</title><link>https://lorainemg.github.io/portfolio/projects/school/project1/</link><pubDate>Wed, 09 May 2018 10:58:08 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project1/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Schizophrenia is a psychiatric disorder that affects a large part of the world’s population. Among its symptoms are the inability to process information, mainly in attention tasks and work memory. That is why the use of evoked potentials related to events is a useful tool to support the subjective decision processes of medical specialists.&lt;/p>
 &lt;ul>
 &lt;li>The objective of this work is to generate a model that allows distinguishing schizophrenic patients from healthy patients using the visual paradigm of the P300 and applying the discrete transform of wavelets as a method of extracting characteristics.&lt;/li>
@@ -324,5 +182,5 @@
 &lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/schizophrenic-classification" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/posts/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project5/</guid><description>&lt;p>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.&lt;/p></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/projects/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project5/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;/ul></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/posts/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project5/</guid><description>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases in the first one the signals are identified and in the second the whole scope of these cues is determined.</description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/projects/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project5/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.&lt;/p></description></item></channel></rss>
