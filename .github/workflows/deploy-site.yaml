@@ -43,6 +43,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+
+      - name: Update Hugo Modules
+        run: hugo mod tidy
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
       - name: Install node modules
         run: |
           hugo mod npm pack
