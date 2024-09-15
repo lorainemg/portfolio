@@ -2,6 +2,7 @@
 title: DataCamp Projects
 date: 2022-08-24T11:25:05-04:00
 description: "My Collection of Projects at DataCamp."
+summary: This is the datacamp project summary
 menu:
   sidebar:
     name: DataCamp Projects
