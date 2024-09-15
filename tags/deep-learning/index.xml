@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/deep-learning/</link><description>Recent content in Deep Learning on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/deep-learning/</link><description>Recent content in Deep Learning on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/posts/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project7/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
+&lt;ul>
+&lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
+&lt;li>The evaluation of the task is divided into three scenarios: one corresponding to the detection of entities, one corresponding to the detection of relations between such pair of entities, and the third one corresponding to the extraction of both entities and relationships.&lt;/li>
+&lt;li>For both subtasks, our proposal makes use of BiLSTM as contextual encoders and Dense layers as the tag decoder architecture of the model.&lt;/li>
+&lt;li>In the challenge, the system ranked fifth in the main scenario, fourth in the scenario evaluating the first task, and fifth in the last scenario.&lt;/li>
+&lt;li>The score obtained in the relationship extraction task shows that the proposed approach needs to be further explored.&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/posts/school/project7/project7.jpg">&lt;figcaption>
+&lt;h4>Neural network architecture used in the first subtask&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;code>Scikit-learn&lt;/code>&lt;/li>
+&lt;li>Named Entity Recognition&lt;/li>
+&lt;li>Relation Extraction&lt;/li>
+&lt;li>&lt;code>Keras&lt;/code>&lt;/li>
+&lt;li>&lt;code>NLTK&lt;/code>&lt;/li>
+&lt;li>&lt;code>Spacy&lt;/code>&lt;/li>
+&lt;li>Neural Networks&lt;/li>
+&lt;li>LSTM&lt;/li>
+&lt;/ul>
+&lt;h3 id="resouces">Resouces&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf" target="_blank" rel="noopener">Paper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ehealthkd.github.io/2021" target="_blank" rel="noopener">Challenge Link&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
 &lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
 &lt;ul>
 &lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
