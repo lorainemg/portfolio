@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Work Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/posts/work/</link><description>Recent content in Work Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Sep 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/posts/work/index.xml" rel="self" type="application/rss+xml"/><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project8/</guid><description>&lt;p>My Collection of Projects at DataCamp. This exercises are taken from the course &lt;a href="https://www.datacamp.com/tracks/associate-data-scientist-in-python" target="_blank" rel="noopener">Associate Data Scientist in Python&lt;/a> from &lt;a href="https://www.datacamp.com/" target="_blank" rel="noopener">DataCamp&lt;/a>. Here&amp;rsquo;s a brief description of each project.&lt;/p>
-&lt;h4 id="introduction-to-datacamp-projects">Introduction to DataCamp Projects&lt;/h4>
-&lt;p>This notebook serves as an Introduction to DataCamp Projects.&lt;/p>
-&lt;ul>
-&lt;li>Introduces what a Jupyter notebook is, showing how to run code cells.&lt;/li>
-&lt;li>Show how to load and show pandas DataFrames.&lt;/li>
-&lt;li>Show how to show inline matplotlib plots.&lt;/li>
-&lt;li>Show the interactive output of Maps.&lt;/li>
-&lt;/ul>
-&lt;h5 id="habilities">Habilities&lt;/h5>
-&lt;ul>
-&lt;li>&lt;code>Data Manipulation&lt;/code>, &lt;code>Data Visualization&lt;/code>, &lt;code>Importing &amp;amp; Cleaning Data&lt;/code>, &lt;code>Case Studies&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;h5 id="links">Links&lt;/h5>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lorainemg/datacamp-projects/tree/main/Introduction%20to%20DataCamp%20Projects" target="_blank" rel="noopener">GitHub Repository&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h4 id="investigating-netflix-movies-and-guest-stars-in-the-office">Investigating Netflix Movies and Guest Stars in The Office&lt;/h4>
-&lt;p>In this project I apply the foundational Python skills by manipulating and visualizing movie and TV data.&lt;/p></description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject. Here&amp;rsquo;s a brief description of every project:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Work Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/posts/work/</link><description>Recent content in Work Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Sep 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/posts/work/index.xml" rel="self" type="application/rss+xml"/><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project8/</guid><description>This is the datacamp project summary</description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/posts/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject. Here&amp;rsquo;s a brief description of every project:&lt;/p>
 &lt;h4 id="supervised-classification-and-introduction-to-the-sklearn-tool">Supervised Classification and Introduction to the Sklearn Tool&lt;/h4>
 &lt;p>The objective of this project is to solve a problem using the algorithms given in the lecture.&lt;/p>
 &lt;ul>
