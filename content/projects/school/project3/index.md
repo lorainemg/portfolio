@@ -1,14 +1,37 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Information Retrieval System"
+date: 2020-06-18T11:25:05-04:00
+description: "Implementation of an Information Retrieval System based on the Vector Information Retrieval Model"
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Information Retrieval System
+    identifier: project-3
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+    parent: school
+tags: ["Information Retrieval", "Recommender Systems", "NLP", "Data Manipulation", "Importing & Cleaning Data", "Machine Learning"]
 categories: ["Basic"]
 ---
+### Summary
 
-Greeting! I am a Software Developer specialized in full-stack development and machine learning. I am proficient in Python, Vue, FastAPI, and SQL, with a strong background in creating responsive user interfaces and enhancing data management. I have a proven track record in enhancing productivity and operational efficiency through advanced algorithm development and real-time data tracking. I am adept at utilizing advanced tools and frameworks to deliver innovative solutions and improve workflow processes. I am passionate about leveraging cutting-edge technologies to drive impactful solutions.
+* In this repo, an Information Retrieval System based on the Vector Information Retrieval Model is implemented.
+* The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.
+* A visual interface using Streamlit is used.
+* Clustering techniques to group documents and a crawler to gain information are applied.
+* NLP techniques and different metrics in different collections are applied to check the functionality of the system.
+
+
+{{< figure src="project3.jpg" title="Workflow of an Information Retrieval System" >}}
+
+### **Skills**
+
+- Machine Learning
+- Clustering
+- Content Filtering
+- Streamlit
+- NLTK
+- Scikit-Learn
+
+### Resources
+
+- [GitHub Link](https://github.com/lorainemg/information-retrieval-system)
+- [Report](https://github.com/lorainemg/information-retrieval-system/blob/main/doc/C511%20Loraine%20Monteagudo%2C%20Tony%20Raul%20Blanco.pdf)
