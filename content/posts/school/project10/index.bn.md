@@ -11,9 +11,10 @@ menu:
 tags: ["Data Manipulation", "Machine Learning", "Recommender Systems", "AutoML", "Programming", "Probability & Statistics", "Data Visualization", "Hypothesis Testing"]
 categories: ["Basic"]
 ---
-#### Summary
 
 The field of **Automated Machine Learning (AutoML)** has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Despite the recent success of AutoML, many challenges remain. Learning AutoML is a time-consuming process and can be computationally inefficient. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks. One of the advantages of meta-learning techniques is that they can serve as efficient support for the AutoML process, learning from previous tasks the best algorithms to solve a certain type of problem. In this way, it is possible to speed up the AutoML process, obtaining better results in the same period of time. The objective of this thesis project is to design a meta-learning strategy for generic domains in machine learning.
+
+#### Summary
 
 The implemented meta-learning proposal is capable of addressing a wide variety of tasks by selecting features capable of representing the space defined by them. AutoGOAL has been replaced as a complementary AutoML system, which stands out for its ability to generate effective solutions for a wide range of domains, allowing you to solve a large number of tasks. AutoGOAL is used for pipeline generation algorithms to create the knowledge base and pipeline search initialized with the designed meta-learning approach.
 

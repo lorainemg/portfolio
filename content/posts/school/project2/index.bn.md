@@ -11,9 +11,10 @@ menu:
 tags: ["Data Analysis", "Data Visualization", "Data Manipulation", "Probability & Statistics", "Hypothesis Testing"]
 categories: ["Basic"]
 ---
-#### Summary
 
 This project uses the data from the UCI Machine Learning Repository, in particular the dataset "Individual Household Electric Power Consumption". A real example related to the electricity consumption of a house for 4 years is analyzed.
+
+#### Summary
 
 * The project is written in R.
 * A normal population will be generated in which different samples will be extracted and their differences will be studied.

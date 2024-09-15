@@ -12,9 +12,7 @@ tags: ["Data Manipulation", "Data Visualization", "Importing & Cleaning Data", "
 categories: ["Basic"]
 ---
 
-My Collection of Projects teaching Machine Learning subject.
-
-Here's a brief description of every project:
+My Collection of Projects teaching Machine Learning subject. Here's a brief description of every project:
 
 #### Supervised Classification and Introduction to the Sklearn Tool
 

@@ -13,9 +13,10 @@ categories: ["Basic"]
 ---
 
 
-#### Summary
 
 This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.
+
+#### Summary
 
 * Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.
 * The evaluation of the task is divided into three scenarios: one corresponding to the detection of entities, one corresponding to the detection of relations between such pair of entities, and the third one corresponding to the extraction of both entities and relationships.

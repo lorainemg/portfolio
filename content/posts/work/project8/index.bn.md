@@ -15,7 +15,6 @@ categories: ["Basic"]
 My Collection of Projects at DataCamp. This exercises are taken from the course [Associate Data Scientist in Python](https://www.datacamp.com/tracks/associate-data-scientist-in-python) from [DataCamp](https://www.datacamp.com/). Here's a brief description of each project.
 
 
-
 #### Introduction to DataCamp Projects
 
 This notebook serves as an Introduction to DataCamp Projects.

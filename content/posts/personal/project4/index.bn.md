@@ -11,10 +11,10 @@ menu:
 tags: ["Data Analysis", "Data Visualization", "Time-Series Analysis", "Machine Learning", "NLP", "API"]
 categories: ["Basic"]
 ---
-#### Summary
-
 
 Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.
+
+#### Summary
 
 * Created a Streamlit app to display information about cryptocurrencies.
 * Different data of interest were plotted, which are essential for the prediction of future cryptocurrency prices.
