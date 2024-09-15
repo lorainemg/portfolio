@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/posts/personal/</link><description>Recent content in Personal Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/posts/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/posts/personal/</link><description>Recent content in Personal Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/posts/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
 &lt;ul>
 &lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
@@ -6,7 +6,7 @@
 &lt;li>Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.&lt;/li>
 &lt;li>Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.&lt;/li>
 &lt;/ul>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Time-Series Forecasting&lt;/li>
@@ -15,10 +15,10 @@
 &lt;li>Streamlit&lt;/li>
 &lt;li>Natural Language Processing&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/posts/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project6/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>Sensortower Scraper</title><link>https://lorainemg.github.io/portfolio/posts/personal/project6/</link><pubDate>Wed, 01 Jul 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project6/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Scraper of &lt;a href="https://app.sensortower.com/" target="_blank" rel="noopener">Sensortower&lt;/a> to collect app download statistics for Android and iOS.&lt;/p>
 &lt;ul>
 &lt;li>It collects information from &lt;a href="https://sensortower.com/api/" target="_blank" rel="noopener">Sensortower API&lt;/a>.&lt;/li>
@@ -29,14 +29,14 @@
 &lt;h4>Ejemplo de la información obtenida en Sensortower&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>Scrapper&lt;/li>
 &lt;li>API&lt;/li>
 &lt;li>JSON&lt;/li>
 &lt;li>&lt;code>requests&lt;/code>&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/sensortower-scraper" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Personal Projects</title><link>https://lorainemg.github.io/portfolio/posts/personal/_index.bn/</link><pubDate>Wed, 02 Sep 2015 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/_index.bn/</guid><description>&lt;p>This section features a selection of personal projects that I have undertaken independently. These projects illustrate my skills, interests, and problem-solving abilities across various domains.&lt;/p></description></item></channel></rss>

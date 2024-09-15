@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/natural-language-processing/</link><description>Recent content in Natural Language Processing on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/posts/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project7/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Natural Language Processing on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/natural-language-processing/</link><description>Recent content in Natural Language Processing on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jul 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/posts/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project7/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
 &lt;ul>
 &lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
@@ -11,7 +11,7 @@
 &lt;h4>Neural network architecture used in the first subtask&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>&lt;code>Scikit-learn&lt;/code>&lt;/li>
 &lt;li>Named Entity Recognition&lt;/li>
@@ -22,12 +22,12 @@
 &lt;li>Neural Networks&lt;/li>
 &lt;li>LSTM&lt;/li>
 &lt;/ul>
-&lt;h3 id="resouces">Resouces&lt;/h3>
+&lt;h4 id="resouces">Resouces&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf" target="_blank" rel="noopener">Paper&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ehealthkd.github.io/2021" target="_blank" rel="noopener">Challenge Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>eHealth-KD Challenge 2021</title><link>https://lorainemg.github.io/portfolio/projects/school/project7/</link><pubDate>Tue, 20 Jul 2021 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project7/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.&lt;/p>
 &lt;ul>
 &lt;li>Two main subtasks for knowledge discovery were defined: entity recognition and relationship extraction.&lt;/li>
@@ -40,7 +40,7 @@
 &lt;h4>Neural network architecture used in the first subtask&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>&lt;code>Scikit-learn&lt;/code>&lt;/li>
 &lt;li>Named Entity Recognition&lt;/li>
@@ -51,11 +51,11 @@
 &lt;li>Neural Networks&lt;/li>
 &lt;li>LSTM&lt;/li>
 &lt;/ul>
-&lt;h3 id="resouces">Resouces&lt;/h3>
+&lt;h4 id="resouces">Resouces&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf" target="_blank" rel="noopener">Paper&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ehealthkd.github.io/2021" target="_blank" rel="noopener">Challenge Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/posts/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project5/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
-&lt;p>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.&lt;/p></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/projects/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project5/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/posts/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project5/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.&lt;/p></description></item><item><title>Detection of Negation</title><link>https://lorainemg.github.io/portfolio/projects/school/project5/</link><pubDate>Tue, 10 Apr 2018 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project5/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.&lt;/p></description></item></channel></rss>

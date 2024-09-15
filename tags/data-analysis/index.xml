@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analysis on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/data-analysis/</link><description>Recent content in Data Analysis on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/data-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analysis on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/data-analysis/</link><description>Recent content in Data Analysis on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/data-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/posts/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/personal/project4/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
 &lt;ul>
 &lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
@@ -6,7 +6,7 @@
 &lt;li>Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.&lt;/li>
 &lt;li>Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.&lt;/li>
 &lt;/ul>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Time-Series Forecasting&lt;/li>
@@ -15,10 +15,10 @@
 &lt;li>Streamlit&lt;/li>
 &lt;li>Natural Language Processing&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/projects/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project4/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/projects/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project4/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
 &lt;ul>
 &lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
@@ -26,7 +26,7 @@
 &lt;li>Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.&lt;/li>
 &lt;li>Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.&lt;/li>
 &lt;/ul>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Time-Series Forecasting&lt;/li>
@@ -35,10 +35,10 @@
 &lt;li>Streamlit&lt;/li>
 &lt;li>Natural Language Processing&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/posts/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project2/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/posts/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project2/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This project uses the data from the UCI Machine Learning Repository, in particular the dataset &amp;ldquo;Individual Household Electric Power Consumption&amp;rdquo;. A real example related to the electricity consumption of a house for 4 years is analyzed.&lt;/p>
 &lt;ul>
 &lt;li>The project is written in R.&lt;/li>
@@ -52,7 +52,7 @@
 &lt;h4>Graphic of the correlation matrix between several of the variables analyzed in the data set&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>R&lt;/li>
 &lt;li>Clustering&lt;/li>
@@ -62,13 +62,13 @@
 &lt;li>Regression Analysis&lt;/li>
 &lt;li>Anova Test&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis" target="_blank" rel="noopener">Github Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf" target="_blank" rel="noopener">Report 1&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase2/doc/report.pdf" target="_blank" rel="noopener">Report 2&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://archive.ics.uci.edu/ml/datasets/individual&amp;#43;household&amp;#43;electric&amp;#43;power&amp;#43;consumption" target="_blank" rel="noopener">Dataset&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/projects/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project2/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;/ul></description></item><item><title>Analysis of Household Dataset</title><link>https://lorainemg.github.io/portfolio/projects/school/project2/</link><pubDate>Wed, 25 Sep 2019 11:15:58 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project2/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
 &lt;p>This project uses the data from the UCI Machine Learning Repository, in particular the dataset &amp;ldquo;Individual Household Electric Power Consumption&amp;rdquo;. A real example related to the electricity consumption of a house for 4 years is analyzed.&lt;/p>
 &lt;ul>
 &lt;li>The project is written in R.&lt;/li>
@@ -82,7 +82,7 @@
 &lt;h4>Graphic of the correlation matrix between several of the variables analyzed in the data set&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;h4 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h4>
 &lt;ul>
 &lt;li>R&lt;/li>
 &lt;li>Clustering&lt;/li>
@@ -92,7 +92,7 @@
 &lt;li>Regression Analysis&lt;/li>
 &lt;li>Anova Test&lt;/li>
 &lt;/ul>
-&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis" target="_blank" rel="noopener">Github Link&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf" target="_blank" rel="noopener">Report 1&lt;/a>&lt;/li>
