@@ -2,7 +2,7 @@
 title: DataCamp Projects
 date: 2022-08-24T11:25:05-04:00
 description: "My Collection of Projects at DataCamp."
-summary: My Collection of Projects at DataCamp. This exercises are taken from the course [Associate Data Scientist in Python](https://www.datacamp.com/tracks/associate-data-scientist-in-python) from [DataCamp](https://www.datacamp.com/). Here's a brief description of each project.
+summary: My Collection of Projects at DataCamp. This exercises are taken from the course Associate Data Scientist in Python from DataCamp. Here's a brief description of each project.
 menu:
   sidebar:
     name: DataCamp Projects

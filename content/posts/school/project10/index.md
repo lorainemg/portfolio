@@ -2,6 +2,7 @@
 title: "A Meta-Learning Strategy for Generic AutoML Pipelines."
 date: 2021-11-17T11:25:05-04:00
 description: "A Meta-Learning proposal to improve the performance of AutoML systems,, recommending initial ML algorithms to start the search."
+summary: The field of **Automated Machine Learning (AutoML)** has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks.The objective of this thesis project is to design a meta-learning strategy for generic domains in AutoML.
 menu:
   sidebar:
     name: Meta-Learning for AutoML
