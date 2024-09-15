@@ -12,9 +12,9 @@ tags: ["Data Manipulation", "Data Visualization", "Importing & Cleaning Data", "
 categories: ["Basic"]
 ---
 
-My Collection of Projects at DataCamp. Here's a brief description of each project.
+My Collection of Projects at DataCamp. This exercises are taken from the course [Associate Data Scientist in Python](https://www.datacamp.com/tracks/associate-data-scientist-in-python) from [DataCamp](https://www.datacamp.com/). Here's a brief description of each project.
 
-## [DataCamp - Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)
+
 
 ### Introduction to DataCamp Projects
 
