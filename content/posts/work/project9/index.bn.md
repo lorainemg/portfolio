@@ -16,7 +16,7 @@ My Collection of Projects teaching Machine Learning subject.
 
 Here's a brief description of every project:
 
-### Supervised Classification and Introduction to the Sklearn Tool
+#### Supervised Classification and Introduction to the Sklearn Tool
 
 The objective of this project is to solve a problem using the algorithms given in the lecture.
 
@@ -24,7 +24,7 @@ The objective of this project is to solve a problem using the algorithms given i
 * The goal is, given the text of the review, to determine whether the review is positive or negative.
 * For this, KNN and Naive Bayes will be used and compared.
 
-#### Habilities:
+##### Habilities:
 
 - Data Preprocessing
 - KNN
@@ -33,7 +33,7 @@ The objective of this project is to solve a problem using the algorithms given i
 - Model Training
 - Sentiment Analysis
 
-### Decision Trees and Random Forest
+#### Decision Trees and Random Forest
 
 To demonstrate the use of Decision Trees and Random Forests, we use the Iris dataset.
 
@@ -42,7 +42,7 @@ To demonstrate the use of Decision Trees and Random Forests, we use the Iris dat
 * The depth of the trees is adjusted to avoid overfitting.
 * Then, with the Decision Tree and Random Forest algorithms, the dataset used in the previous project, *Rotten Tomatoes*, is analyzed, where the sentiment analysis is performed.
 
-#### Habilities:
+##### Habilities:
 
 - Data Preprocessing
 - Decision Trees
@@ -52,7 +52,7 @@ To demonstrate the use of Decision Trees and Random Forests, we use the Iris dat
 - Model Training
 - Sentiment Analysis
 
-### Logistic Regression
+#### Logistic Regression
 
 We continue to use the _Rotten Tomatoes_ dataset to rank positive and negative reviews. 
 
@@ -62,7 +62,7 @@ We continue to use the _Rotten Tomatoes_ dataset to rank positive and negative r
 * We plot the most important positive and negative words.
 * We check different techniques that would make the model better: add bigrams and decrease the probability threshold of Logistic Regression.
 
-#### Habilities:
+##### Habilities:
 
 - Data Preprocessing
 - Logistic Regression
@@ -72,7 +72,7 @@ We continue to use the _Rotten Tomatoes_ dataset to rank positive and negative r
 - Sentiment Analysis
 - Natural Language Processing
 
-### Support Vector Machine and Cross Validation
+#### Support Vector Machine and Cross Validation
 
 We work with a dataset that contains information about patients (*gender, marital status, smoking status, age, etc.*) with the aim of predicting whether they are likely to have a heart attack (*stroke*). In addition, the *doctor* characteristic is artificially incorporated, which represents the doctor who collected the data, which will later be used to group the data.
 
@@ -82,7 +82,7 @@ We work with a dataset that contains information about patients (*gender, marita
 * The concept of *Baseline* is used, to efficiently compare models and different partition methods to use with Cross Validation are visualized.
 * Different algorithms are compared using correct evaluation techniques.
 
-#### Habilities:
+##### Habilities:
 
 - Data Cleaning
 - Support Vector Machines
@@ -90,7 +90,7 @@ We work with a dataset that contains information about patients (*gender, marita
 - Model Evaluation
 - Cross Validation
 
-### Clustering Algorithms: K-Means y DBSCAN
+#### Clustering Algorithms: K-Means y DBSCAN
 
 In this project, we explore how *K-means* and *DBSCAN* work.
 
@@ -102,14 +102,14 @@ In this project, we explore how *K-means* and *DBSCAN* work.
 * Different clusters metrics are used to check the efficiency of K-means, outlier detection is done, and data transformations are used.
 * Finally, DBSCAN is introduced as a solution to most K-means problems.
 
-#### Habilities:
+##### Habilities:
 
 - K-Means
 - DBSCAN
 - Model Training
 - Model Evaluation
 
-### Dimension Reduction Algorithms
+#### Dimension Reduction Algorithms
 
 High-dimensional data present a challenge for statistical models. Fortunately, much of the data is redundant and can be reduced to a smaller number of variables without losing much information. Typically, we use dimensionality reduction in machine learning and data exploration. In machine learning, we use it to reduce the number of features. This will decrease computational power and possibly lead to better model performance. Similarly, we can use dimensionality reduction to project data into two dimensions. Such visualization can help us detect outliers or data clusters.
 
@@ -120,7 +120,7 @@ In this project, we will compare four different methods to accomplish such a tas
 * Then, the same is done with Kernel PCA, LDA, and t-SNE.
 * Finally, PCA and LDA are compared and used as preprocessing steps of KNN.
 
-#### Habilities:
+##### Habilities:
 
 - Principal Component Analysis (PCA)
 - Kernel Principal Component Analysis (kPCA)
@@ -129,7 +129,7 @@ In this project, we will compare four different methods to accomplish such a tas
 - Model Training
 - Model Preprocessing
 
-### Neural Networks
+#### Neural Networks
 
 * This notebook starts with the visualization of several activation functions.
 * Then, the `fashion_mnist` Keras dataset is loaded, a dataset containing 15000 images, every pixel is represented with 255 pixels, and there is a total of 9 classes.
@@ -142,7 +142,7 @@ In this project, we will compare four different methods to accomplish such a tas
 * Afterward, MLP is used in a Regression Problem, predicting the prices of houses in the dataset *California housing*.
 * More complex models are created using the Functional API of Keras, and different tools to save and load Keras models are used.
 
-#### Habilities:
+##### Habilities:
 
 - Deep Learning
 - MLP
@@ -152,5 +152,5 @@ In this project, we will compare four different methods to accomplish such a tas
 - Image Classification
 - Price Prediction
 
-### Resources
+#### Resources
 [GitHub Link](https://github.com/lorainemg/cp-ml)

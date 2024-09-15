@@ -11,7 +11,7 @@ menu:
 tags: ["Data Analysis", "Data Visualization", "Data Manipulation", "Probability & Statistics", "Hypothesis Testing"]
 categories: ["Basic"]
 ---
-### Summary
+#### Summary
 
 This project uses the data from the UCI Machine Learning Repository, in particular the dataset "Individual Household Electric Power Consumption". A real example related to the electricity consumption of a house for 4 years is analyzed.
 
@@ -25,7 +25,7 @@ This project uses the data from the UCI Machine Learning Repository, in particul
 
 {{< figure src="project2.png" title="Graphic of the correlation matrix between several of the variables analyzed in the data set" >}}
 
-### **Skills**
+#### **Skills**
 
 - R
 - Clustering
@@ -35,7 +35,7 @@ This project uses the data from the UCI Machine Learning Repository, in particul
 - Regression Analysis
 - Anova Test
 
-### Resources
+#### Resources
 - [Github Link](https://github.com/lorainemg/Household-Analysis)
 - [Report 1](https://github.com/lorainemg/Household-Analysis/blob/main/Phase1/doc/report.pdf)
 - [Report 2](https://github.com/lorainemg/Household-Analysis/blob/main/Phase2/doc/report.pdf)

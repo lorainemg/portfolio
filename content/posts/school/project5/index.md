@@ -12,7 +12,7 @@ tags: ["Data Manipulation", "Machine Learning", "Natural Language Processing", "
 categories: ["Basic"]
 ---
 
-### Summary
+#### Summary
 
 
 The automatic detection of negation and the words they affect is an important task that could benefit other Natural Language Processing tasks such as Information Extraction, Sentiment Analysis, and Question Answering. In the present work, a solution to the negation problem is proposed based on supervised machine learning techniques. The essence is the detection of the negation signals and their scope, all of it in Spanish texts. The work is done in two phases: in the first one the signals are identified and in the second the whole scope of these cues is determined.
@@ -29,7 +29,7 @@ The automatic detection of negation and the words they affect is an important ta
 
 
 
-### **Skills**
+#### **Skills**
 
 - NLTK
 - Spacy
@@ -38,7 +38,7 @@ The automatic detection of negation and the words they affect is an important ta
 - Logistic Regression
 - Docker
 
-### Resources
+#### Resources
 
 - [GitHub Link](https://github.com/lorainemg/negation-detection)
 - [Paper](https://github.com/lorainemg/negation-detection/blob/main/docs/paper.pdf)

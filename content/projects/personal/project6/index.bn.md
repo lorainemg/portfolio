@@ -12,7 +12,7 @@ tags: ["Data Manipulation", "Importing & Cleaning Data", "Programming", "API"]
 categories: ["Basic"]
 ---
 
-### Summary
+#### Summary
 
 Scraper of [Sensortower](https://app.sensortower.com/) to collect app download statistics for Android and iOS.
 
@@ -22,13 +22,13 @@ Scraper of [Sensortower](https://app.sensortower.com/) to collect app download s
 
 {{< figure src="project6.jpg" title="Ejemplo de la información obtenida en Sensortower" >}}
 
-### **Skills**
+#### **Skills**
 
 - Scrapper
 - API
 - JSON
 - `requests`
 
-### Resources
+#### Resources
 
 - [GitHub Link](https://github.com/lorainemg/sensortower-scraper)

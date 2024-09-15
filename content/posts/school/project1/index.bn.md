@@ -12,7 +12,7 @@ tags: ["Data Modeling", "Machine Learning", "Data Manipulation", "Importing & Cl
 categories: ["Basic"]
 hero: hero.png
 ---
-### Summary
+#### Summary
 
 Schizophrenia is a psychiatric disorder that affects a large part of the worldâ€™s population. Among its symptoms are the inability to process information, mainly in attention tasks and work memory. That is why the use of evoked potentials related to events is a useful tool to support the subjective decision processes of medical specialists.
 
@@ -23,7 +23,7 @@ Schizophrenia is a psychiatric disorder that affects a large part of the worldâ€
 
 <img src="project1.png" alt="Fourier Transform" style="width:100%;" title="Calculation of the Fast Fourier Transform of the reconstructed signal from the A5 coefficients that represents the Delta band [0.5-4Hz]"/>
 
-### **Skills**
+#### **Skills**
 
 - Machine Learning
 - SVM
@@ -32,7 +32,7 @@ Schizophrenia is a psychiatric disorder that affects a large part of the worldâ€
 - Wavelet Transform
 - Evoked Potential
 
-### Resources
+#### Resources
 
 - [GitHub Link](https://github.com/lorainemg/schizophrenic-classification)
 

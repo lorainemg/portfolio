@@ -13,7 +13,7 @@ categories: ["Basic"]
 ---
 
 
-### Summary
+#### Summary
 
 This is the solution presented by the UH-MMM group to the eHealth-KD challenge at IberLEF 2021.
 
@@ -26,7 +26,7 @@ This is the solution presented by the UH-MMM group to the eHealth-KD challenge a
 
 {{< figure src="project7.jpg" title="Neural network architecture used in the first subtask" >}}
 
-### **Skills**
+#### **Skills**
 
 - `Scikit-learn`
 - Named Entity Recognition
@@ -38,7 +38,7 @@ This is the solution presented by the UH-MMM group to the eHealth-KD challenge a
 - LSTM
   
 
-### Resouces
+#### Resouces
 
 - [GitHub Link](https://github.com/lorainemg/eHealthKD-competition)
 - [Paper](https://github.com/lorainemg/eHealthKD-competition/blob/main/docs/ehealth_paper4.pdf)

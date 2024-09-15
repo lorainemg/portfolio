@@ -11,7 +11,7 @@ menu:
 tags: ["Information Retrieval", "Recommender Systems", "NLP", "Data Manipulation", "Importing & Cleaning Data", "Machine Learning"]
 categories: ["Basic"]
 ---
-### Summary
+#### Summary
 
 * In this repo, an Information Retrieval System based on the Vector Information Retrieval Model is implemented.
 * The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.
@@ -22,7 +22,7 @@ categories: ["Basic"]
 
 {{< figure src="project3.jpg" title="Workflow of an Information Retrieval System" >}}
 
-### **Skills**
+#### **Skills**
 
 - Machine Learning
 - Clustering
@@ -31,7 +31,7 @@ categories: ["Basic"]
 - NLTK
 - Scikit-Learn
 
-### Resources
+#### Resources
 
 - [GitHub Link](https://github.com/lorainemg/information-retrieval-system)
 - [Report](https://github.com/lorainemg/information-retrieval-system/blob/main/doc/C511%20Loraine%20Monteagudo%2C%20Tony%20Raul%20Blanco.pdf)

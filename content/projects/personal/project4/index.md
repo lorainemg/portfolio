@@ -11,7 +11,7 @@ menu:
 tags: ["Data Analysis", "Data Visualization", "Time-Series Analysis", "Machine Learning", "NLP", "API"]
 categories: ["Basic"]
 ---
-### Summary
+#### Summary
 
 
 Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.
@@ -21,7 +21,7 @@ Applied data extraction techniques to obtain the data, data analysis to visualiz
 * Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.
 * Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.
 
-### **Skills**
+#### **Skills**
 
 - Machine Learning
 - Time-Series Forecasting
@@ -30,6 +30,6 @@ Applied data extraction techniques to obtain the data, data analysis to visualiz
 - Streamlit
 - Natural Language Processing
 
-### Resources
+#### Resources
 
 - [GitHub Link](https://github.com/lorainemg/crypto-forecasting)

@@ -11,7 +11,7 @@ menu:
 tags: ["Data Manipulation", "Machine Learning", "Recommender Systems", "AutoML", "Programming", "Probability & Statistics", "Data Visualization", "Hypothesis Testing"]
 categories: ["Basic"]
 ---
-### Summary
+#### Summary
 
 The field of **Automated Machine Learning (AutoML)** has been highlighted as one of the main alternatives to finding good solutions for complex machine learning problems. Despite the recent success of AutoML, many challenges remain. Learning AutoML is a time-consuming process and can be computationally inefficient. Meta-learning is described as the process of learning from past experiences by applying various learning algorithms to different types of data and thus reducing the time needed to learn new tasks. One of the advantages of meta-learning techniques is that they can serve as efficient support for the AutoML process, learning from previous tasks the best algorithms to solve a certain type of problem. In this way, it is possible to speed up the AutoML process, obtaining better results in the same period of time. The objective of this thesis project is to design a meta-learning strategy for generic domains in machine learning.
 
@@ -23,7 +23,7 @@ The developed meta-learning approach consists in the selection of a set of algor
 
 {{< figure src="project10 - application.jpg" title="Second phase of the meta-learning proposal, were the knowledge of the previous machine learning problems is used to recommend a pipeline for the solution of the current task." >}}
 
-### **Skills**
+#### **Skills**
 
 - Scikit-Learn
 - XGBoost
@@ -32,7 +32,7 @@ The developed meta-learning approach consists in the selection of a set of algor
 - Programming
 - Docker
 
-### Resources
+#### Resources
 - [Solution Code GitHub Link](https://github.com/lorainemg/autogoal)
 - [Experiments Code GitHub Link](https://github.com/lorainemg/experiments-thesis)
 - [Dissertation GitHub Link](https://github.com/lorainemg/dissertation)
