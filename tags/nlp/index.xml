@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NLP on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/tags/nlp/</link><description>Recent content in NLP on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 24 Aug 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency Forecasting</title><link>https://lorainemg.github.io/portfolio/projects/personal/project4/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/personal/project4/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Applied data extraction techniques to obtain the data, data analysis to visualize and analyze such data, and machine learning algorithms to predict cryptocurrency prices in the short future.&lt;/p>
+&lt;ul>
+&lt;li>Created a Streamlit app to display information about cryptocurrencies.&lt;/li>
+&lt;li>Different data of interest were plotted, which are essential for the prediction of future cryptocurrency prices.&lt;/li>
+&lt;li>Twitter comments are extracted using its API, to extract and subsequently classify opinions concerning a cryptocurrency in question.&lt;/li>
+&lt;li>Sentiment analysis is performed using pre-trained models to detect the opinion of a cryptocurrency in a given period of time.&lt;/li>
+&lt;/ul>
+&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Time-Series Forecasting&lt;/li>
+&lt;li>Twitter API&lt;/li>
+&lt;li>Plotly-Dash&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;li>Natural Language Processing&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/lorainemg/crypto-forecasting" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Information Retrieval System</title><link>https://lorainemg.github.io/portfolio/projects/school/project3/</link><pubDate>Thu, 18 Jun 2020 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project3/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;ul>
+&lt;li>In this repo, an Information Retrieval System based on the Vector Information Retrieval Model is implemented.&lt;/li>
+&lt;li>The design of the system is exposed according to each stage of information retrieval and several of its functionalities are implemented.&lt;/li>
+&lt;li>A visual interface using Streamlit is used.&lt;/li>
+&lt;li>Clustering techniques to group documents and a crawler to gain information are applied.&lt;/li>
+&lt;li>NLP techniques and different metrics in different collections are applied to check the functionality of the system.&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="https://lorainemg.github.io/portfolio/portfolio/projects/school/project3/project3.jpg">&lt;figcaption>
+&lt;h4>Workflow of an Information Retrieval System&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="skills">&lt;strong>Skills&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Clustering&lt;/li>
+&lt;li>Content Filtering&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;li>NLTK&lt;/li>
+&lt;li>Scikit-Learn&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/lorainemg/information-retrieval-system/blob/main/doc/C511%20Loraine%20Monteagudo%2C%20Tony%20Raul%20Blanco.pdf" target="_blank" rel="noopener">Report&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

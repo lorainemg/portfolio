@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Work Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/projects/work/</link><description>Recent content in Work Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/projects/work/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://lorainemg.github.io/portfolio/projects/work/project8/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project8/</guid><description>&lt;p>Greeting! I am a Software Developer specialized in full-stack development and machine learning. I am proficient in Python, Vue, FastAPI, and SQL, with a strong background in creating responsive user interfaces and enhancing data management. I have a proven track record in enhancing productivity and operational efficiency through advanced algorithm development and real-time data tracking. I am adept at utilizing advanced tools and frameworks to deliver innovative solutions and improve workflow processes. I am passionate about leveraging cutting-edge technologies to drive impactful solutions.&lt;/p></description></item><item><title>Introduction</title><link>https://lorainemg.github.io/portfolio/projects/work/project9/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project9/</guid><description>&lt;p>Greeting! I am a Software Developer specialized in full-stack development and machine learning. I am proficient in Python, Vue, FastAPI, and SQL, with a strong background in creating responsive user interfaces and enhancing data management. I have a proven track record in enhancing productivity and operational efficiency through advanced algorithm development and real-time data tracking. I am adept at utilizing advanced tools and frameworks to deliver innovative solutions and improve workflow processes. I am passionate about leveraging cutting-edge technologies to drive impactful solutions.&lt;/p></description></item><item><title>Work Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/_index.bn/</link><pubDate>Mon, 02 Sep 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/_index.bn/</guid><description>&lt;p>This section highlights projects I have developed in a professional capacity. These projects demonstrate my ability to apply my skills in real-world scenarios, addressing specific business needs and contributing to organizational goals.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Work Projects on Loraine's Portfolio</title><link>https://lorainemg.github.io/portfolio/projects/work/</link><description>Recent content in Work Projects on Loraine's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Sep 2019 11:25:05 -0400</lastBuildDate><atom:link href="https://lorainemg.github.io/portfolio/projects/work/index.xml" rel="self" type="application/rss+xml"/><item><title>DataCamp Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project8/</link><pubDate>Wed, 24 Aug 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project8/</guid><description>&lt;p>My Collection of Projects at DataCamp. Here&amp;rsquo;s a brief description of each project.&lt;/p>
+&lt;h2 id="datacamp---data-scientist-with-pythonhttpsappdatacampcomlearncareer-tracksdata-scientist-with-pythonversion6">&lt;a href="https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6" target="_blank" rel="noopener">DataCamp - Data Scientist with Python&lt;/a>&lt;/h2>
+&lt;h3 id="introduction-to-datacamp-projects">Introduction to DataCamp Projects&lt;/h3>
+&lt;p>This notebook serves as an Introduction to DataCamp Projects.&lt;/p>
+&lt;ul>
+&lt;li>Introduces what a Jupyter notebook is, showing how to run code cells.&lt;/li>
+&lt;li>Show how to load and show pandas DataFrames.&lt;/li>
+&lt;li>Show how to show inline matplotlib plots.&lt;/li>
+&lt;li>Show the interactive output of Maps.&lt;/li>
+&lt;/ul>
+&lt;h4 id="habilities">Habilities&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>Data Manipulation&lt;/code>, &lt;code>Data Visualization&lt;/code>, &lt;code>Importing &amp;amp; Cleaning Data&lt;/code>, &lt;code>Case Studies&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h4 id="links">Links&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/lorainemg/datacamp-projects/tree/main/Introduction%20to%20DataCamp%20Projects" target="_blank" rel="noopener">GitHub Repository&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="investigating-netflix-movies-and-guest-stars-in-the-office">Investigating Netflix Movies and Guest Stars in The Office&lt;/h3>
+&lt;p>In this project I apply the foundational Python skills by manipulating and visualizing movie and TV data.&lt;/p></description></item><item><title>Machine Learning Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/project9/</link><pubDate>Fri, 22 Jul 2022 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/project9/</guid><description>&lt;p>My Collection of Projects teaching Machine Learning subject.&lt;/p>
+&lt;p>Here&amp;rsquo;s a brief description of every project:&lt;/p>
+&lt;h3 id="supervised-classification-and-introduction-to-the-sklearn-tool">Supervised Classification and Introduction to the Sklearn Tool&lt;/h3>
+&lt;p>The objective of this project is to solve a problem using the algorithms given in the lecture.&lt;/p>
+&lt;ul>
+&lt;li>There are positive and negative movie reviews. 1000 of each.&lt;/li>
+&lt;li>The goal is, given the text of the review, to determine whether the review is positive or negative.&lt;/li>
+&lt;li>For this, KNN and Naive Bayes will be used and compared.&lt;/li>
+&lt;/ul>
+&lt;h4 id="habilities">Habilities:&lt;/h4>
+&lt;ul>
+&lt;li>Data Preprocessing&lt;/li>
+&lt;li>KNN&lt;/li>
+&lt;li>Naive Bayes&lt;/li>
+&lt;li>Feature Extraction&lt;/li>
+&lt;li>Model Training&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;/ul>
+&lt;h3 id="decision-trees-and-random-forest">Decision Trees and Random Forest&lt;/h3>
+&lt;p>To demonstrate the use of Decision Trees and Random Forests, we use the Iris dataset.&lt;/p></description></item><item><title>Work Projects</title><link>https://lorainemg.github.io/portfolio/projects/work/_index.bn/</link><pubDate>Mon, 02 Sep 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/work/_index.bn/</guid><description>&lt;p>This section highlights projects I have developed in a professional capacity. These projects demonstrate my ability to apply my skills in real-world scenarios, addressing specific business needs and contributing to organizational goals.&lt;/p></description></item></channel></rss>
