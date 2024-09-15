@@ -43,7 +43,6 @@ experiences:
     - Implemented Python backend with FastAPI, SQLAlchemy, and MySQL, improving data management efficiency.
     - Created Vue3 frontend with JavaScript and Vite, delivering a responsive user interface.
     - Facilitated seamless integration between backend and frontend, ensuring smooth system operations.
-    - 
 - company:
     name: University of Havana.
     url: "http://www.uh.cu"

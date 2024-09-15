@@ -2,7 +2,7 @@ baseURL: https://lorainemg.github.io/portfolio
 
 languageCode: en-us
 title: "Loraine's Portfolio"
-# theme: "toha"
+theme: "toha"
 
 module:
   imports:
