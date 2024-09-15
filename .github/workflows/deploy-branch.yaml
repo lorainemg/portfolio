@@ -31,7 +31,6 @@ jobs:
 
     - name: Install node modules
       run: |
-        hugo mod npm pack
         npm install        
     - name: Build
       run: hugo --minify
