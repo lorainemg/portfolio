@@ -17,17 +17,17 @@ achievements:
   image: /images/sections/achievements/scientific.png
   summary: The scientific Merit Award goes to the students who have achieved excellent academic and research results after finishing their undergraduate education.
 - title: 5th Place in IberLEF eHealth Knowledge Discovery Challenge 2021
-  image: /images/sections/achievements/graduation-cap.jpg
+  image: /images/sections/achievements/ehealth.png
   summary: https://ehealthkd.github.io/2021
-- title: Silver Award at the National Computer Conference
-  image: /images/sections/achievements/sport.jpg
-  summary: "Achieved Silver Award at the National Computer Conference for the publication of: 'Un Modelo de Anotación de Propósito General para el Descubrimiento de Conocimiento Aplicado a Tecnologías de la Salud'"
 - title: XVI COMPUMAT 2019 International Congress Participation
-  image: /images/sections/achievements/presenter.jpg
+  image: /images/sections/achievements/compumat.png
   summary: Participated in XVI COMPUMAT 2019 International Congress with the publication of the work "Detección de la negación y su ámbito en textos escritos en español"
 - title: Silver Diploma at the 2019 Student Scientific Conference
-  image: /images/sections/achievements/presenter.jpg
+  image: /images/sections/achievements/scc-gold-diploma.png
   summary: Developed a general-purpose annotation model for knowledge discovery applied to health technologies.
 - title: Gold Diploma at the 2018 Student Scientific Conference
-  image: /images/sections/achievements/presenter.jpg
+  image: /images/sections/achievements/scc-silver-award.png
   summary: Applied machine learning to solve the problem of the detection of negation in Spanish sentences, and its scope.
+- title: Silver Award at the National Computer Conference
+  image: /images/sections/achievements/ncc.png
+  summary: "Achieved Silver Award at the National Computer Conference for the publication of: 'Un Modelo de Anotación de Propósito General para el Descubrimiento de Conocimiento Aplicado a Tecnologías de la Salud'"
