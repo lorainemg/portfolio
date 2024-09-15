@@ -1,14 +1,34 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Sensortower Scraper"
+date: 2020-07-01T11:25:05-04:00
+description: "Scraper to collect app download statistics for both Android and iOS."
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Sensortower Scraper
+    identifier: project-6
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+    parent: personal
+tags: ["Data Manipulation", "Importing & Cleaning Data", "Programming", "API"]
 categories: ["Basic"]
 ---
 
-Greeting! I am a Software Developer specialized in full-stack development and machine learning. I am proficient in Python, Vue, FastAPI, and SQL, with a strong background in creating responsive user interfaces and enhancing data management. I have a proven track record in enhancing productivity and operational efficiency through advanced algorithm development and real-time data tracking. I am adept at utilizing advanced tools and frameworks to deliver innovative solutions and improve workflow processes. I am passionate about leveraging cutting-edge technologies to drive impactful solutions.
+### Summary
+
+Scraper of [Sensortower](https://app.sensortower.com/) to collect app download statistics for Android and iOS.
+
+* It collects information from [Sensortower API](https://sensortower.com/api/).
+* Saves the necessary information in JSON.
+* It uses the Python `requests` package.
+
+{{< figure src="project6.jpg" title="Ejemplo de la información obtenida en Sensortower" >}}
+
+### **Skills**
+
+- Scrapper
+- API
+- JSON
+- `requests`
+
+### Resources
+
+- [GitHub Link](https://github.com/lorainemg/sensortower-scraper)
