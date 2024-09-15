@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://lorainemg.github.io/portfolio
 
 languageCode: en-us
 title: "Loraine's Portfolio"
@@ -51,7 +51,7 @@ params:
     favicon: /images/site/data.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/lorainemg/portfolio
   # Default branch of your Git repo
   gitBranch: main
 
