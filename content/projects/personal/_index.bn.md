@@ -7,5 +7,3 @@ menu:
     identifier: personal
     weight: 30
 ---
-
-This section features a selection of personal projects that I have undertaken independently. These projects illustrate my skills, interests, and problem-solving abilities across various domains.

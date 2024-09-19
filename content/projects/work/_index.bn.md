@@ -7,5 +7,3 @@ menu:
     identifier: work
     weight: 20
 ---
-
-This section highlights projects I have developed in a professional capacity. These projects demonstrate my ability to apply my skills in real-world scenarios, addressing specific business needs and contributing to organizational goals.
