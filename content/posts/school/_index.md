@@ -7,5 +7,3 @@ menu:
     identifier: school
     weight: 20
 ---
-
-This section showcases a range of projects developed during my time at university. These projects span various disciplines and reflect the depth of learning, research, and practical application I engaged in throughout my academic journey.
