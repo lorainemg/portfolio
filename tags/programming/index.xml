@@ -86,8 +86,9 @@
 &lt;h4 id="resources">Resources&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lorainemg/sensortower-scraper" target="_blank" rel="noopener">GitHub Link&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Grammar Analyzer</title><link>https://lorainemg.github.io/portfolio/posts/school/project11/</link><pubDate>Sat, 20 Jul 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project11/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
-&lt;p>The object of this project is that given a grammar (represented in a plain text format) perform the following analyses:&lt;/p>
+&lt;/ul></description></item><item><title>Grammar Analyzer</title><link>https://lorainemg.github.io/portfolio/posts/school/project11/</link><pubDate>Sat, 20 Jul 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/posts/school/project11/</guid><description>&lt;p>The object of this project is to parse a specific grammar with different algorithms and represent the automaton of a given grammar if it is regular.&lt;/p>
+&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>Given a grammar, the following analyses are done:&lt;/p>
 &lt;ul>
 &lt;li>Compute the &lt;strong>First&lt;/strong> and &lt;strong>Follow&lt;/strong> sets.&lt;/li>
 &lt;li>Determine if the grammar is &lt;strong>LL(1)&lt;/strong>. If so, show the table of the non-recursive predictive method and give the derivation trees for a given set of strings. If not, please report a conflict string along with an explanation of the conflict. Transform the grammar to remove common prefixes and immediate left recursion.&lt;/li>
@@ -95,8 +96,9 @@
 &lt;li>If the grammar is regular, convert it to automaton and regular expression.&lt;/li>
 &lt;li>Show version of grammar without immediate left recursion, common prefixes, and unnecessary productions.&lt;/li>
 &lt;/ul>
-&lt;p>Here&amp;rsquo;s an example of a LALR grammar generated in the application:&lt;/p></description></item><item><title>Grammar Analyzer</title><link>https://lorainemg.github.io/portfolio/projects/school/project11/</link><pubDate>Sat, 20 Jul 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project11/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
-&lt;p>The object of this project is that given a grammar (represented in a plain text format) perform the following analyses:&lt;/p>
+&lt;p>Here&amp;rsquo;s an example of a LALR grammar generated in the application:&lt;/p></description></item><item><title>Grammar Analyzer</title><link>https://lorainemg.github.io/portfolio/projects/school/project11/</link><pubDate>Sat, 20 Jul 2019 11:25:05 -0400</pubDate><guid>https://lorainemg.github.io/portfolio/projects/school/project11/</guid><description>&lt;p>The object of this project is to parse a specific grammar with different algorithms and represent the automaton of a given grammar if it is regular.&lt;/p>
+&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>Given a grammar, the following analyses are done:&lt;/p>
 &lt;ul>
 &lt;li>Compute the &lt;strong>First&lt;/strong> and &lt;strong>Follow&lt;/strong> sets.&lt;/li>
 &lt;li>Determine if the grammar is &lt;strong>LL(1)&lt;/strong>. If so, show the table of the non-recursive predictive method and give the derivation trees for a given set of strings. If not, please report a conflict string along with an explanation of the conflict. Transform the grammar to remove common prefixes and immediate left recursion.&lt;/li>
