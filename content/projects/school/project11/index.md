@@ -12,10 +12,11 @@ tags: ["Programming", "Compilation", "Flask", "Grammar Parser"]
 categories: ["Basic"]
 ---
 
+The object of this project is to parse a specific grammar with different algorithms and represent the automaton of a given grammar if it is regular.
 
 #### Summary
 
-The object of this project is that given a grammar (represented in a plain text format) perform the following analyses:
+Given a grammar, the following analyses are done:
 
 - Compute the **First** and **Follow** sets.
 - Determine if the grammar is **LL(1)**. If so, show the table of the non-recursive predictive method and give the derivation trees for a given set of strings. If not, please report a conflict string along with an explanation of the conflict. Transform the grammar to remove common prefixes and immediate left recursion.
