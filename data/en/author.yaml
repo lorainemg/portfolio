@@ -3,7 +3,7 @@ name: "Loraine Monteagudo Garcia"
 nickname: "Loraine"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/loraine.png"
+# image: "images/author/loraine.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "lorainemonteagudo@gmail.com"

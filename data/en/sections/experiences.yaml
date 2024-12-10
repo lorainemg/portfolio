@@ -19,6 +19,11 @@ experiences:
   positions:
   - designation: Senior Software Developer
     start: Sep 2024 
+    responsibilities:
+    - Lead the design and development of high-impact internal tools to enhance efficiency and streamline operations.
+    - Continue to innovate in real-time tracking systems, data extraction, and machine learning applications for decision-making and classification.
+    - Drive technical decision-making and ensure the delivery of scalable, high-quality solutions.
+    - Collaborate with cross-functional teams to align engineering efforts with organizational goals and priorities.
   - designation: Software Developer
     start: Dec 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
