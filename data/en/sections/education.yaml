@@ -57,8 +57,8 @@ degrees:
   publications: #(optional)
   - title: Detección de la negación y su ámbito en textos escritos en español.
     url: "https://github.com/lorainemg/negation-detection/blob/main/docs/paper.pdf"
-  - title: Un Modelo de Anotación de Propósito General para el Descubrimiento de Conocimiento Aplicado a Tecnologías de la Salud.
-    url: "#"
+  # - title: Un Modelo de Anotación de Propósito General para el Descubrimiento de Conocimiento Aplicado a Tecnologías de la Salud.
+  #   url: "#"
   - title: UH-MMM at eHealth-KD Challenge 2021.
     url: "http://ceur-ws.org/Vol-2943/ehealth_paper4.pdf"
   - title: Una estrategia de Meta-Learning para flujos genéricos de AutoML..

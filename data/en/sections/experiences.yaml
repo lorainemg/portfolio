@@ -17,10 +17,12 @@ experiences:
     # company overview
     overview: Jack's Flight Club is the United Kingdom's premium cheap flight alerts service with 1,500,000+ members and subscribers. Jack's Flight Club's team is responsible for scouring the web in search for mistake fare and cheap flights departing from the UK, mainland Europe, & USA to destinations all over the globe. Once an incredible deal comes up, our subscribers are notified at once to give them the best chance to score a deal before it's gone.
   positions:
+  - designation: Senior Software Developer
+    start: Sep 2024 
   - designation: Software Developer
-    start: Dic 2022
+    start: Dec 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Sep 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Enhanced internal software to track flights, boosting productivity and efficiency.
