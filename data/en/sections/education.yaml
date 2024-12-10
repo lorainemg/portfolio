@@ -34,7 +34,6 @@ degrees:
     name: University of Havana
     url: "http://www.uh.cu"
   grade: #(optional)
-    scale: CGPA
     achieved: 4.81
     outOf: 5
   # takenCourses: #(optional)
@@ -63,7 +62,8 @@ degrees:
     url: "http://ceur-ws.org/Vol-2943/ehealth_paper4.pdf"
   - title: Una estrategia de Meta-Learning para flujos genéricos de AutoML..
     url: "files/cnc-2021.pdf"
-#   extracurricularActivities: #(optional)
+  extracurricularActivities: #(optional)
+    - Joined the investigation group of Arificial Intelligence, where I collaborated with the group projects, published papers and participated in conferences and competitions. 
 #   - In vitae facilisis est, eget porta sem.
 #   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
 #   - Duis sed massa feugiat, ornare justo et, aliquam est.
