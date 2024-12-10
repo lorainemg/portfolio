@@ -34,6 +34,7 @@ degrees:
     name: University of Havana
     url: "http://www.uh.cu"
   grade: #(optional)
+    scale: GPA
     achieved: 4.81
     outOf: 5
   # takenCourses: #(optional)
